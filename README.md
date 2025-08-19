@@ -22,5 +22,40 @@ Part of the **Code & Covenant** brand — blending **technology, relationships, 
 - **Matplotlib** for data visualization
 
 ---
+---
+
+## 🖼️ Sample Output
+![Marriage Mood Tracker](marriage_mood_tracker_v1.png)
+
+---
+
+## 📖 Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/marriage-mood-tracker.git
+   cd marriage-mood-tracker
+🌍 Why This Matters
+
+Healthy marriages thrive on awareness + communication.
+This tool sparks reflection by showing where emotional alignment is strong, and where extra care may be needed.
+
+✨ Next Steps
+
+Future versions may include:
+
+AI-driven mood predictions.
+
+Integration with a web dashboard (FastAPI + React).
+
+A personalized conflict resolution recommender.
+
+🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first.
+
+📬 Connect
+
+Built with ❤️ by Neville Mabonga as part of the Code & Covenant journey.
+Follow for more projects blending tech, love, marriage, and faith.
 
 ## 📂 Project Structure
